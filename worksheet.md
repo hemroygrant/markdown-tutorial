@@ -136,6 +136,10 @@ For what it's worth, I prefer dashes...
 > **TODO** Create a horizontal rule
 
 ---
+***
+___
+
+---
 
 ## Lists
 
