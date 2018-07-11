@@ -173,8 +173,18 @@ Create ordered lists using a number prefix
 
 > **TODO** Create an unordered list of your 5 favorite TV Shows 
 
-> **TODO** Create an ordered list of your top 5 Movies 
+- Law and Order
+- Luke Cage
+- Flash
+- Fresh Prince of Bel-Air
+- Mr. Robot
 
+> **TODO** Create an ordered list of your top 5 Movies 
+1. Avengers
+2. Pirates of the Caribbean
+3. John Wick
+4. Rush Hour
+5. Taken
 ---
 
 ## Links
