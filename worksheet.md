@@ -87,6 +87,10 @@ Two before and after (no spaces) a section of texts makes it bold
     __Bold Text with underscores__
 -->
 
+**Bold Senetence**
+
+__Bold with italics__
+
 One before and after (no spaces) a section of texts makes it bold 
 
 <!-- 
@@ -95,6 +99,11 @@ One before and after (no spaces) a section of texts makes it bold
     *Italicized Text with asterisks*
     _Italicized Text with underscores_
 --> 
+
+*Italic sentence*
+
+_Italic Sentence_
+
 You can also put Bold and Italicized text inline by surrounding a group of words.
 
 <!-- 
@@ -104,6 +113,12 @@ You can also put Bold and Italicized text inline by surrounding a group of words
 -->
 
 > **TODO**. Create a bold sentence, an italicized sentence, and a sentence with both bold and italicized text inline
+
+__This is my bold sentence__
+
+_This is my italicized sentence_
+
+This is **Bold** and this is *Italic*
 
 ## Horizontal Rule
 A horizontal rule gives a visible line break.  You can create one by putting three or more hypens, asterisks, or underscores (-, *, _).
