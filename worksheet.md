@@ -429,6 +429,7 @@ Creates this
 
 > **TODO** If you are comfortable with HTML, add some raw HTML.
 
+<h1>Raw HTML header 1</h1>
 ---
 
 ## Custom CSS
@@ -443,7 +444,11 @@ You can also add custom CSS to your MarkDown to add additional styling to your d
     </style>
 ```
 > **TODO** If you are comfortable with CSS, give your page some style.
-
+<style>
+    p {
+        color:red;
+    }
+</style>
 ---
 
 ## Additional Resources
