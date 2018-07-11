@@ -206,7 +206,11 @@ Create a link with text by surrounding text with brackets, [], and link immediat
 
 > **TODO** Create a link to your website, twitter, or github. with no text
 
+<https://www.github.com>
+
 > **TODO** Create a link with text to your website, twitter, or github
+
+[My Website](https://www.github.com)
 
 What if you needed to reuse a link several times?  Well, you could copy and paste that link each time.  That means, if you need to update the link, you will have to do it each time its used.  There's a better way!
 
@@ -228,6 +232,14 @@ Then use the reference style link by using your text inside of brackets followed
 
 > **TODO** Create a reference link to your website and reference it three times
 
+[ref]: https://www.github.com
+
+[My Website][ref]
+
+[My Website][ref]
+
+[My Website][ref]
+
 You can also link to other locations on your markdown page.  Remember, your MarkDown will get converted to HTML, so you can, in theory, use a anchor tag to link to an element with a specific ID.  You can find an example of this in the list of sections at the top of this document.
 
 When we create a header tag for example, it implicitly creates an id property.
@@ -240,6 +252,7 @@ Ex 'Header Info' becomes header-info
 
 > **TODO** Create a link to another part of your page.
 
+[Code](#code)
 
 ---
 
