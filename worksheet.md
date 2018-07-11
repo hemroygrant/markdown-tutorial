@@ -297,6 +297,8 @@ You can do inline code with `backticks` (``)
 
 > **TODO** Display a line of text with inline code
 
+Here is my code `var x = 1;`
+
 You can do blocks of code by surroung it with 3 backticks (``` ```)
 
 <!-- 
@@ -309,6 +311,11 @@ You can do blocks of code by surroung it with 3 backticks (``` ```)
 -->
 
 > **TODO** Display a block of code from your favorite language
+
+```
+    var item = 0;
+    item += 1;
+```
 
 The above does not give language specific highlighting.  You can specify the programming language immediately following the opening 3 backticks.  You Should see a difference in highliting!
 
@@ -334,6 +341,15 @@ The above does not give language specific highlighting.  You can specify the pro
 
 > **TODO** Display a block of code from your favorite language while specifying the language
 
+```html
+<html>
+    <head>
+    </head>
+
+    <body>
+    </body>
+</html>
+```
 
 ---
 
