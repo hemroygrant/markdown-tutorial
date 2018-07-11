@@ -364,6 +364,10 @@ Tables are useful for displaying rows and columns of data.  Column headers can b
     | Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 | 
 -->
 
+| Header 1| Header 2 | Header 3 |
+| ------- | -------- | -------- |
+| Column 1| Column 2 | Column 3 |
+
 
 The column definitions and row definitions do not have to have the exact same width sizes, but it would be much more readable.  Notice the output of the following two tables are the same, but the second (the raw markdown) is much more readable.
 
@@ -385,9 +389,20 @@ The column definitions and row definitions do not have to have the exact same wi
 
 > **TODO** Create a table with three columns and two rows
 
+| First Name | Last Name | Date |
+|------------|-----------|------|
+|Hemroy | Grant| 7/11/2018|
+|John| Doe| 8/11/2018|
+
+
 You can also align (Center, left, right) the text in a column by using colons (:) in the line breaks between headers and rows.  No colon means the default **left alignment**.  Colons on each side signifies **center alignment**.  And a trailing colon means **right alignment**.
 
 > **TODO** Create a table with three columns, one aligned left, one aligned center, and one aligned right
+
+|First Name|Last Name|Age|
+|:---------|:-------:|--:|
+|Hemroy|Grant|23|
+
 
 <!-- 
     Example
