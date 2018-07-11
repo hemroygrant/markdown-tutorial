@@ -59,6 +59,8 @@ Quotes are defined by the  '>' symbol
 
 > **TODO**. Create a quote
 
+> This is my quote.
+
 You can combine a header with a quote.
 
 <!-- 
@@ -68,6 +70,8 @@ You can combine a header with a quote.
 -->
 
 > **TODO**. Create an H2 Quote 
+
+> # This is my really big quote.
 
 ---
 
