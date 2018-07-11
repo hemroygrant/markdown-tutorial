@@ -286,6 +286,9 @@ Use the reference
 
 > **TODO** Create a reference link to your profile picture and then reference it.
 
+[profile]:https://profile.actionsprout.com/default.jpeg
+
+![Anon Profile][profile]
 ---
 
 ## Code
